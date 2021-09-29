@@ -4,10 +4,10 @@
 #include <BlynkSimpleEsp8266.h>
 
 
-char auth[] = "aCuSxEcH-zjrGN6I7rVHo-cxLxmub9J2";
+char auth[] = "aCuSxEcH-XXXXXXXXXXXXXXXX";
 
 char ssid[] = "Router Lantai 1";
-char pass[] = "Kf4d3E79wyyP";
+char pass[] = "XXXXXXXXXXX";
 
 BlynkTimer timer;
 void setup()
